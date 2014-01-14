@@ -1,0 +1,19 @@
+
+
+	.box { 
+	border: 3px solid green;
+
+	/* padding affects spacing inside an element */
+	padding: 20 px;
+
+	/* margin affects spacing outside of an element */
+	margin: 30 px;
+	width: 100 px;
+	height: 100 px;
+	float: left;
+}
+
+.container {
+	border: 3px solid red;
+	background: gray;
+}
